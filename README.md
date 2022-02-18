@@ -15,7 +15,7 @@ In each game, every lane (5 lanes) had five types of data:
 <img src="images/data_sources.png" alt="drawing" width="400"/>
 </p>
 
-As a result, there are 23 types of in each game. (Jungle position had no lane kill rate, while support position had no damage dealt)
+As a result, there are 23 types of data in each game. (Jungle position had no lane kill rate, while support position had no damage dealt)
 
 Besides, the output Y is the result (0: red side win, 1: blue side win)
 
